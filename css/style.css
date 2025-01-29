@@ -1,0 +1,31 @@
+.cart2{
+    background-color: rgb(236, 235, 235);
+    border-radius: 10px;
+    padding: 5%;
+}
+.cart2:hover{
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 5%;
+    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.265);
+    color: orange;
+
+}
+
+
+.icone-size{
+    font-size: 24px;
+    border-radius: 100%;
+    background-color: white;
+    width: 45px;
+    height: 45px;
+    border: black 5px solid;
+    text-align: center;
+    padding-top: 3%;
+
+}
+.positionfleche{
+    padding-left: 20%;
+    margin-top: 20px;
+}
+
